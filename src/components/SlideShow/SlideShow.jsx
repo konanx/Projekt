@@ -26,7 +26,6 @@ function SlideShow() {
       clearInterval(timer);
     };
   }, [slajd]);
-  const la = lista[slajd];
   return (
     <>
       <Box
